@@ -1,0 +1,1 @@
+to use weka and practice all of algorithms data mining.
